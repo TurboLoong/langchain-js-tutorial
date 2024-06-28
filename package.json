@@ -1,0 +1,18 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@langchain/community": "^0.2.12",
+		"@langchain/core": "^0.2.8",
+		"@langchain/redis": "^0.0.5",
+		"chromadb": "^1.8.1",
+		"chromadb-default-embed": "^2.13.2",
+		"langchain": "^0.2.5",
+		"mammoth": "^1.8.0"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.5.0",
+		"dotenv": "^16.4.5",
+		"eslint": "^9.5.0",
+		"globals": "^15.6.0"
+	}
+}
